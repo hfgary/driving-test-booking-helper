@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "uv@0.5.18": {
+      "last_modified": "2025-01-14T01:21:38Z",
+      "resolved": "github:NixOS/nixpkgs/2b1fca3296ddd1602d2c4f104a4050e006f4b0cb#uv",
+      "source": "devbox-search",
+      "version": "0.5.18",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rzwxis0yacabfy0krlx3z7j0bjyfv5gw-uv-0.5.18",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rzwxis0yacabfy0krlx3z7j0bjyfv5gw-uv-0.5.18"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1ilvmmjzg9kp4hyg785np55hwg8x7z43-uv-0.5.18",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1ilvmmjzg9kp4hyg785np55hwg8x7z43-uv-0.5.18"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yf1fpa9idcwpir2bj2bqws5i952z5vj3-uv-0.5.18",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yf1fpa9idcwpir2bj2bqws5i952z5vj3-uv-0.5.18"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9wfdv1xycfvlry7xqw7ssphcqqan245y-uv-0.5.18",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9wfdv1xycfvlry7xqw7ssphcqqan245y-uv-0.5.18"
+        }
+      }
+    }
+  }
+}
